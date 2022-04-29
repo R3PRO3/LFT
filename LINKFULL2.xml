@@ -1,0 +1,17 @@
+﻿<settings>
+   
+  <!-- for detailed info about the settings see  
+  and 
+   
+  <filename>LINKFULL.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>3</timespan>
+  <update>f</update>
+
+  
+  <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO-SP">GLOBO-SP</channel
+	  
