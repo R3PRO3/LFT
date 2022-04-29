@@ -15,7 +15,8 @@
 	 
  
   <channel update="i" site="lineup.net.br" site_id="511761" xmltv_id="GLOBO RJ SD">GLOBO RJ SD</channel
-
+  <channel update="i" site="foxplaybrasil.com.br" site_id="GLOBO RJ HD" xmltv_id="GLOBO RJ HD">FOX</channel>
+  <channel update="i" site="vivo.com.br" site_id="LCH61" xmltv_id="GLOBO">GLOBO</channel>
 
 
   <settings>	  
